@@ -18,7 +18,7 @@ This document tracks the status of restored `.rmf` source maps from various Gold
 🕓 de_chateau  
 🕓 de_dust  
 🕓 de_dust2  
-🔵 de_inferno  
+✅ de_inferno  
 ✅ de_nuke  
 🕓 de_piranesi  
 🕓 de_storm  
