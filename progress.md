@@ -48,7 +48,7 @@ This document tracks the status of restored `.rmf` source maps from various Gold
 🕓 crossfire  
 🕓 datacore  
 🕓 frenzy  
-✅ gasworks  
+🕓 gasworks  
 🕓 lambda_bunker  
 🕓 rapidcore  
 🕓 snarkpit  
