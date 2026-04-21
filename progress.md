@@ -7,6 +7,7 @@ This document tracks the status of restored `.rmf` source maps from various Gold
 ✅ Finished — fully restored, cleaned, tested  
 🔵 In Progress — currently being restored or fixed  
 🕓 Planned — scheduled for future restoration  
+❌ Not planned — not intended for restoration  
 
 ---
 
@@ -55,7 +56,7 @@ This document tracks the status of restored `.rmf` source maps from various Gold
 🕓 stalkyard  
 🕓 subtransit  
 🕓 undertow  
-🕓 contamination  
-🕓 disposal  
-🕓 pool_party  
-🕓 rocket_frenzy  
+❌ contamination  
+❌ disposal  
+❌ pool_party  
+❌ rocket_frenzy  
