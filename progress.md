@@ -8,7 +8,7 @@ This document tracks the status of restored `.rmf` source maps from various Gold
 🔵 In Progress — currently being restored or fixed  
 🕓 Planned — scheduled for future restoration  
 ❌ Not planned — not intended for restoration  
-💡 Texlights — map includes info_texlights entities  
+💡 Texlights — map includes info_texlights entity  
 
 ---
 
