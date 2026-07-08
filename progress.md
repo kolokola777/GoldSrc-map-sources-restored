@@ -14,7 +14,7 @@ This document tracks the status of restored `.rmf` source maps from various Gold
 ## Counter-Strike 1.6
 
 🔵 de_airstrip  
-✅ de_aztec 
+✅ de_aztec  
 🕓 de_cbble  
 🕓 de_chateau  
 🕓 de_dust  
