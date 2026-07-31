@@ -28,7 +28,7 @@ This document tracks the status of restored `.rmf` source maps from various Gold
 ✅ de_train   
 ✅ de_vertigo  
 
-🔵 cs_747  
+✅ cs_747  
 ✅ cs_assault   
 🕓 cs_backalley  
 ✅ cs_estate   
